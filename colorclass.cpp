@@ -1,6 +1,6 @@
 /*
 
-Lab14: Color Class
+Lab16: Color Class w/Constructors
 COMSC-210
 Naveen Islam
 IDE: emacs
